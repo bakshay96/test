@@ -1,0 +1,4 @@
+Hello Github
+This is test ping.......
+git config --global user.name "<your_name_here>"
+git config --global user.email "<your_email@email.com>"
